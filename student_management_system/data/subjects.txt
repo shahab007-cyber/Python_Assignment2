@@ -1,0 +1,2 @@
+# Subject ID | Code | Name | Credits
+101|python101|python|3
